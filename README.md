@@ -10,4 +10,4 @@ This is a simple web application that includes features for managing a shopping 
 4. Run command : npm start
 5. Port : localhost:3000
 
-# Thank You for Reading
+## Thank You for Reading
