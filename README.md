@@ -4,11 +4,10 @@ This is a simple web application that includes features for managing a shopping 
 
 ## Try it out
 
-clone the app using https://github.com/Harsh-agrawal369/Cart-App-React.git
-move to : cd CART_APP
-
-npm install
-Run command : npm start
-Port : localhost:3000
+1. clone the app using https://github.com/Harsh-agrawal369/Cart-App-React.git
+2. move to : cd CART_APP
+3. npm install
+4. Run command : npm start
+5. Port : localhost:3000
 
 # Thank You for Reading
