@@ -4,6 +4,8 @@ This is a simple web application that includes features for managing a shopping 
 
 ## Try it out
 
+Try it: https://cart-app-steel.vercel.app/
+
 1. clone the app using https://github.com/Harsh-agrawal369/Cart-App-React.git
 2. move to : cd CART_APP
 3. npm install
